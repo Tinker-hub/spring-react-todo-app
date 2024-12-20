@@ -1,0 +1,10 @@
+com\ahkn\springtodoapp\controller\TaskController.class
+com\ahkn\springtodoapp\service\impl\TaskServiceImpl.class
+com\ahkn\springtodoapp\entity\Task.class
+com\ahkn\springtodoapp\exception\ResourceNotFoundException.class
+com\ahkn\springtodoapp\dto\TaskResponse.class
+com\ahkn\springtodoapp\repository\TaskRepository.class
+com\ahkn\springtodoapp\SpringTodoAppApplication.class
+com\ahkn\springtodoapp\service\TaskService.class
+com\ahkn\springtodoapp\dto\TaskDto.class
+com\ahkn\springtodoapp\utils\AppConstants.class

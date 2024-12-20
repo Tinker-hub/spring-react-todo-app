@@ -1,0 +1,10 @@
+D:\Projects\spring-react-todo-app-master\spring-react-todo-app-master - Copy\src\main\java\com\ahkn\springtodoapp\dto\TaskDto.java
+D:\Projects\spring-react-todo-app-master\spring-react-todo-app-master - Copy\src\main\java\com\ahkn\springtodoapp\dto\TaskResponse.java
+D:\Projects\spring-react-todo-app-master\spring-react-todo-app-master - Copy\src\main\java\com\ahkn\springtodoapp\repository\TaskRepository.java
+D:\Projects\spring-react-todo-app-master\spring-react-todo-app-master - Copy\src\main\java\com\ahkn\springtodoapp\entity\Task.java
+D:\Projects\spring-react-todo-app-master\spring-react-todo-app-master - Copy\src\main\java\com\ahkn\springtodoapp\exception\ResourceNotFoundException.java
+D:\Projects\spring-react-todo-app-master\spring-react-todo-app-master - Copy\src\main\java\com\ahkn\springtodoapp\SpringTodoAppApplication.java
+D:\Projects\spring-react-todo-app-master\spring-react-todo-app-master - Copy\src\main\java\com\ahkn\springtodoapp\utils\AppConstants.java
+D:\Projects\spring-react-todo-app-master\spring-react-todo-app-master - Copy\src\main\java\com\ahkn\springtodoapp\service\impl\TaskServiceImpl.java
+D:\Projects\spring-react-todo-app-master\spring-react-todo-app-master - Copy\src\main\java\com\ahkn\springtodoapp\service\TaskService.java
+D:\Projects\spring-react-todo-app-master\spring-react-todo-app-master - Copy\src\main\java\com\ahkn\springtodoapp\controller\TaskController.java
